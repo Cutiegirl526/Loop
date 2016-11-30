@@ -27,4 +27,9 @@ for (var imin = 0; imin <= 4; imin++){
 
 //Merlin's Battle Weapon
 
-var weaponChest = ["Mace", "Sorcerer's Stone", "Excalibur"]
+var weaponChest = ("Mace", "Sorcerer's Stone", "Excalibur")
+
+var wizard = ('Merlin');
+var weapon = ('Mace');
+var power = (30);
+
